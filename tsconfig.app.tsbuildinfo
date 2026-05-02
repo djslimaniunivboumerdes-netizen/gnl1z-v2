@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/components/Sidebar.tsx","./src/components/SonatrachLogo.tsx","./src/components/TopBar.tsx","./src/pages/About.tsx","./src/pages/DCS.tsx","./src/pages/DCSDetail.tsx","./src/pages/Home.tsx","./src/pages/Tools.tsx","./src/types/index.ts"],"version":"5.9.3"}
