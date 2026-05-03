@@ -1,5 +1,6 @@
 name = "gnl1z-v2"
 compatibility_date = "2026-05-02"
+compatibility_flags = []
 
 [assets]
 directory = "./dist"
